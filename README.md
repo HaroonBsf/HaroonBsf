@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0468656b-7409-41f1-99cf-c26869bb9d0d" />
 </a>
 
-<h2 align="center">Hey there, I'm <a href="https://github.com/HaroonBsf">HaroonBsf</a></h2>
+<h2 align="center">Hi there 👋, I'm <a href="https://github.com/HaroonBsf">HaroonBsf</a></h2>
 <h4 align="center">A passionate Android App Developer</h4>
 
 
