@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/0468656b-7409-41f1-99cf-c26869bb9d0d" />
 </a>
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/HaroonBsf">Haroon Majeed</a></h1>
-<h3 align="center">A passionate Android App Developer</h3>
+<h2 align="center">Hey there, I'm <a href="https://github.com/HaroonBsf">HaroonBsf</a></h2>
+<h4 align="center">A passionate Android App Developer</h4>
 
 
 - 🌱 Learning **Flutter, Dart & more**
@@ -25,10 +25,20 @@
 ) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 -->
 
+<h3 align="left">My Stats:</h3>
+
 <div align="center">
   <a href="https://github.com/HaroonBsf">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaroonBsf&theme=tokyonight" height="170em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonBsf&theme=tokyonight" height="170em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroonBsf&theme=tokyonight" height="170em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaroonBsf&theme=dark&hide_border=true&stroke=f53b3b" height="170em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonBsf&theme=dark&hide_border=true&stroke=f53b3b" height="170em" />
   </a>
 </div>
+
+<h3 align="left">Activity On GitHub:</h3>
+
+<p align="center">
+<a href="https://github.com/HaroonBsf">
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonBsf&theme=dark&hide_border=true&stroke=f53b3b"/> 
+</a> 
+</p>
+
