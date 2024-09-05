@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Android App Developer</h3>
 
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 Learning **Flutter, Dart & more**
 
 - 💬 Ask me about **Android**
 
