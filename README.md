@@ -25,7 +25,7 @@
 ) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 -->
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/HaroonBsf">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaroonBsf&theme=tokyonight" height="170em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonBsf&theme=tokyonight" height="170em" />
