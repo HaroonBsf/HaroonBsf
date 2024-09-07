@@ -1,5 +1,5 @@
 <a>
-  <img src="https://github.com/user-attachments/assets/0468656b-7409-41f1-99cf-c26869bb9d0d" />
+  <img src="https://github.com/user-attachments/assets/300a5fae-0b98-4b80-8944-daf8d05dfeb0" />
 </a>
 
 <h2 align="center">Hi there 👋, I'm <a href="https://github.com/HaroonBsf">HaroonBsf</a></h2>
