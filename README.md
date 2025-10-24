@@ -27,11 +27,11 @@
 
 <h3 align="left">My Stats:</h3>
 
-<div align="center">
-  <a href="https://github.com/HaroonBsf">
-    <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=HaroonBsf&hide=contribs&show_icons=true&include_all_commits=true&count_private=truef&theme=dark&hide_border=true&stroke=f53b3b" height="170em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonBsf&theme=dark&hide_border=true&stroke=f53b3b" height="170em" />
-  </a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/HaroonBsf">
+    <img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=HaroonBsf&hide=contribs&show_icons=true&include_all_commits=true&count_private=truef&theme=dark&hide_border=true&stroke=f53b3b" height="170em"/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroonBsf&theme=dark&hide_border=true&stroke=f53b3b" height="170em" />
+  </a>
 </div>
 
 <h3 align="left">Activity On GitHub:</h3>
