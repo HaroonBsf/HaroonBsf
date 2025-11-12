@@ -2,6 +2,11 @@
   <img src="https://github.com/user-attachments/assets/feead57e-5aa3-4b5a-859d-b12c221cad61" />
 </a>
 
+<h2 align="center">
+  Hi there
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  , I'm  <a href="https://github.com/HaroonBsf">HaroonBsf</a>!
+</h2>
 <h2 align="center">Hi there 👋, I'm <a href="https://github.com/HaroonBsf">HaroonBsf</a></h2>
 <h4 align="center">A passionate Android & KMP Developer</h4>
  
